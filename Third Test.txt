@@ -1,0 +1,1 @@
+I have installed JAVA, Eclipse, Selenium, Maven, Jenkins, Github and practiced on them.
